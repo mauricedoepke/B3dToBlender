@@ -17,7 +17,7 @@ What it does not import:
  
  
 ## Why creating this when there is [Assimp](http://www.assimp.org/) ?
-Assimmp did neither import bones nor bone weights correctly. I chose to do this In python as I felt it to be easier than to 
+Assimmp did neither convert import bones nor bone weights correctly. I chose to do this In python as I felt it to be easier thant getting started with c++ and the assimp api.
 
 ## How to use it
  - Start Blender 2.7x
