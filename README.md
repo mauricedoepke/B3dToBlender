@@ -13,7 +13,7 @@ What it does not import:
  
 ## Limitations
  - Blender 2.7x
- - I think I did not implement the whole B3d spec, but only the subset I needed for my files. If your files don't compile fell free to raise an issue
+ - I think I did not implement the whole B3d spec, but only the subset I needed for my files. If your files don't convert correctly, feel free to raise an issue.
  
  
 ## Why creating this when there is [Assimp](http://www.assimp.org/) ?
