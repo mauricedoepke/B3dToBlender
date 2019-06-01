@@ -9,7 +9,7 @@ What it does import:
  - bone weights
 
 What it does not import:
- - animations I did some experiments on importing animations as well but the necessary effort wasn't justified in my case.
+ - animations: I did some experiments on this as well, but the necessary effort wasn't justified in my case.
  
 ## Limitations
  - Blender 2.7x
